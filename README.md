@@ -8,4 +8,5 @@ I do personal projects, with new technologies, 50% of which are implemented in e
 
 - 🔭 I’m currently working on @maxillc
 - 🌱 I’m currently learning about Terraform , AWS , DevOps and python best practice.
+- I´m Mexican :)
 
